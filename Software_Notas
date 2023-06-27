@@ -9,4 +9,3 @@ elif (nota1 + nota2)/2 >= 5:
 	print("\nAluno de exame")
 else:
 	print("\n5Aluno reprovado")
-#teste
